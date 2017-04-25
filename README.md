@@ -1,8 +1,8 @@
 # npmtest-mongo
 
-test coverage for  mongo (v0.1.0)  [![npm package](https://img.shields.io/npm/v/npmtest-mongo.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-mongo) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-mongo.svg)](https://travis-ci.org/npmtest/node-npmtest-mongo)
+#### basic test coverage for  mongo (v0.1.0)  [![npm package](https://img.shields.io/npm/v/npmtest-mongo.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-mongo) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-mongo.svg)](https://travis-ci.org/npmtest/node-npmtest-mongo)
 
-A thin wrapper for the mongodb library
+#### A thin wrapper for the mongodb library
 
 [![NPM](https://nodei.co/npm/mongo.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/mongo)
 
@@ -10,7 +10,7 @@ A thin wrapper for the mongodb library
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-mongo/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-mongo/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-mongo/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-mongo/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-mongo/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-mongo/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-mongo/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-mongo/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-mongo/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-mongo/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-mongo/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-mongo/build/coverage.html/index.html)
 
@@ -64,7 +64,8 @@ A thin wrapper for the mongodb library
     ],
     "name": "mongo",
     "optionalDependencies": {},
-    "version": "0.1.0"
+    "version": "0.1.0",
+    "bin": {}
 }
 ```
 
